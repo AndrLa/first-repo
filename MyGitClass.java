@@ -1,6 +1,6 @@
 package first_git_package;
 
-public class MyGigClass {
+public class MyGitClass {
     public static void main(String[] args) {
 
         System.out.println("Version 1");
@@ -10,7 +10,7 @@ public class MyGigClass {
 
         - git status = OPTIONAL. Show changes,it's like our guide, we can use this anytime to see current conditions.
 
-        - git add . = "add" stage changes in Git repository for the next command
+        - git add . = "add" stage changes in Git repository for the next commit
 
         -git commit -m"any message" = creates a new commit.Moves code from Staging Area to Local repository
 
