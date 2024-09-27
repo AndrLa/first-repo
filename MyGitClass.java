@@ -3,7 +3,8 @@ package first_git_package;
 public class MyGitClass {
     public static void main(String[] args) {
 
-        System.out.println("Version 1");
+        int x = 5;
+        int y = 10;
         /*Notes: How tu puch a git project to GitHub?
         -git init = it creates local repository.ONCE FOR EACH PROJECT.
         If git is not installed then you will see an error at that point.
